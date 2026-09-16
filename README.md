@@ -2,6 +2,8 @@
 
 Aspiring accounting student
 
+* For resume , click [here](https://rawcdn.githack.com/ryankropf154-ops/ryankropf154-ops/23af6d7482ac0b17b1e101dfc0717b4dd838c894/Ryan%20Kropf%20resume.pdf) 
+
 ---
 
 ### 🎓 About Me
