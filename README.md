@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Ryan 👋
 
-<!--
-**ryankropf154-ops/ryankropf154-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring accounting student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing an accounting degree at Baldwin Wallace (Expected Graduation: 2027)
+* 🔭 **Current Focus:** Learning audit and tax principles for accounting
+* 🌱 **Currently Building:** [Name or brief description of a current project/lab assignment]
+* 💡 **Interests:** Basketball and working out
+* ⚡ **Fun Fact:** I like to make lots of smoothies.
+---
+
+### 📌 Featured Projects
+
+| Project Name | Description | Tech Used |
+| --- | --- | --- |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using [OpenAI / Claude / Gemini] | `[Python]` `[Flask]` |
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **Email:** [rkropf24@bw.edu](mailto:your.email@university.edu)
